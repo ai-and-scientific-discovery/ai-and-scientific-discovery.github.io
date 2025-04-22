@@ -290,7 +290,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tbody>
     <tr> <th scope="row" data-time="08:55">08:55 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
-      Invited Speaker Talk 1<br />
+      Keynote Talk 1<br />
       <span style="font-style:italic">Marinka Zitnik</span>
       <a href="">[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
@@ -303,7 +303,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
       </div>
     </td></tr>
     <tr> <th scope="row" data-time="09:50">09:45 AM</th> <td>
-      Invited Speaker Talk 2<br />
+      Keynote Talk 2<br />
       <span style="font-style:italic">Kexin Huang</span>
       <a href="" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
@@ -317,7 +317,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </td></tr>
     <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
-      Invited Speaker - Talk 3<br />
+      Keynote Talk 3<br />
       <span style="font-style:italic">Heng Ji</span>
       <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a>
@@ -355,7 +355,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </td></tr>
     <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Lunch Break</td> </tr>
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>
-      Invited Speaker - TBD<br />
+      Keynote Talk 4<br />
       <span style="font-style:italic">Peter Clark</span>
       <a href="" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
