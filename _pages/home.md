@@ -291,7 +291,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="08:55">08:55 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Invited Speaker Talk 1<br />
-      <span style="font-style:italic">TBD</span>
+      <span style="font-style:italic">Marinka Zitnik</span>
       <a href="">[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk1" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
@@ -304,7 +304,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     </td></tr>
     <tr> <th scope="row" data-time="09:50">09:45 AM</th> <td>
       Invited Speaker Talk 2<br />
-      <span style="font-style:italic">TBD</span>
+      <span style="font-style:italic">Kexin Huang</span>
       <a href="" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk2" aria-cexpanded="false" aria-controls="speaker-bio-talk2">[Speaker Bio]</a>
@@ -318,7 +318,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="10:30">10:30 AM</th> <td>Break 1</td></tr>
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
       Invited Speaker - Talk 3<br />
-      <span style="font-style:italic">TBD</span>
+      <span style="font-style:italic">Heng Ji</span>
       <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk3" aria-cexpanded="false" aria-controls="speaker-bio-talk3">[Speaker Bio]</a>
@@ -330,24 +330,24 @@ These recent developments highlight the possibility of rapidly accelerating the 
       </div>
     </td></tr>
     <tr> <th scope="row" data-time="11:45">11:45 AM</th> <td>
-      Oral Presentation: TBD<br/>
-      <span style="font-style:italic">TBD</span>
+      Oral Presentation: 1<br/>
+      <span style="font-style:italic">LLM-Assisted Translation of Legacy FORTRAN Codes to C++: A Cross-Platform Study</span>
       <a data-toggle="collapse" href="#schedule-talk4" aria-cexpanded="false" aria-controls="schedule-talk4">[Abstract]</a>
       <div class="collapse" id="schedule-talk4">
         Abstract: TBD
       </div>
     </td> </tr>
     <tr> <th scope="row" data-time="12:00">12:00 PM</th> <td>
-      Oral Presentation: TBD<br/>
-      <span style="font-style:italic">TBD</span>
+      Oral Presentation: 2<br/>
+      <span style="font-style:italic">Scideator: Iterative Human-LLM Scientific Idea Generation and Novelty Evaluation Grounded in Research-Paper Facet Recombination</span>
       <a data-toggle="collapse" href="#schedule-talk5" aria-cexpanded="false" aria-controls="schedule-talk5">[Abstract]</a>
       <div class="collapse" id="schedule-talk5">
         Abstract: TBD
       </div>
     </td></tr>
     <tr> <th scope="row" data-time="12:15">12:15 PM</th> <td>
-      Oral Presentation: TBD<br/>
-      <span style="font-style:italic">TBD</span>
+      Oral Presentation: 3<br/>
+      <span style="font-style:italic">What Can Large Language Models Do for Sustainable Food?</span>
       <a data-toggle="collapse" href="#schedule-talk6" aria-cexpanded="false" aria-controls="schedule-talk6">[Abstract]</a>
       <div class="collapse" id="schedule-talk6">
         Abstract: TBD
@@ -356,7 +356,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="12:30">12:30 PM</th> <td>Lunch Break</td> </tr>
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>
       Invited Speaker - TBD<br />
-      <span style="font-style:italic">TBD</span>
+      <span style="font-style:italic">Peter Clark</span>
       <a href="" >[Slides]</a>
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="false" aria-controls="schedule-talk7">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk7" aria-cexpanded="false" aria-controls="speaker-bio-talk7">[Speaker Bio]</a>
@@ -367,24 +367,24 @@ These recent developments highlight the possibility of rapidly accelerating the 
         Bio: TBD</div>
     </td> </tr>
     <tr> <th scope="row" data-time="14:45">14:45 PM</th> <td>
-      Oral Presentation: TBD<br />
-      <span style="font-style:italic">TBD</span>
+      Oral Presentation: 4<br />
+      <span style="font-style:italic">Language Modeling by Language Models with Genesys</span>
       <a data-toggle="collapse" href="#schedule-talk8" aria-cexpanded="false" aria-controls="schedule-talk8">[Abstract]</a>
       <div class="collapse" id="schedule-talk8">
         Abstract: TBD
       </div>
     </td> </tr>
     <tr> <th scope="row" data-time="15:00">15:00 PM</th> <td>
-      Oral Presentation: TBD<br />
-      <span style="font-style:italic"></span>
+      Oral Presentation: 5<br />
+      <span style="font-style:italic">Towards AI-assisted Academic Writing</span>
       <a data-toggle="collapse" href="#schedule-9" aria-cexpanded="false" aria-controls="schedule-9">[Abstract]</a>
       <div class="collapse" id="schedule-9">
         Abstract: TBD
       </div>
     </td> </tr>
         <tr> <th scope="row" data-time="15:15">15:15 PM</th> <td>
-      Oral Presentation: TBD<br />
-      <span style="font-style:italic">TBD</span>
+      Oral Presentation: 6<br />
+      <span style="font-style:italic">Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias</span>
       <a data-toggle="collapse" href="#schedule-10" aria-cexpanded="false" aria-controls="schedule-10">[Abstract]</a>
       <div class="collapse" id="schedule-10">
         Abstract: TBD
