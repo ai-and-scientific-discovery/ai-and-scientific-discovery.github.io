@@ -56,7 +56,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <div class="people-name">  
       <a href="https://www.kexinhuang.com/">Kexin Huang</a>
       <h6>Stanford University </h6>
-      <h6>AI for biomedical and therapeutic discoveries</h6>
+      <h6>(AI for biomedical and therapeutic discoveries)</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
