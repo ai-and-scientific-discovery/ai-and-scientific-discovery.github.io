@@ -49,14 +49,14 @@ These recent developments highlight the possibility of rapidly accelerating the 
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-6 col-lg-3">
-    <a href="https://cs.stanford.edu/people/jure/">
-      <img class="people-pic" src="https://cs.stanford.edu/people/jure/images/jure-2b.jpg">
+  <div class="col-xs-6 col-lg-3"> 
+    <a href="https://www.kexinhuang.com/"> 
+      <img class="people-pic" src="[https://cs.stanford.edu/people/jure/images/jure-2b.jpg](https://images.squarespace-cdn.com/content/v1/58f7aae1e6f2e1a0f9a56616/b11750b6-0599-41d3-895d-1f7c943cc511/headshot.JPG)">
     </a>
-    <div class="people-name">
-      <a href="https://cs.stanford.edu/people/jure/">Jure Leskovec</a>
+    <div class="people-name">  
+      <a href="https://www.kexinhuang.com/">Kexin Huang</a>
       <h6>Stanford University </h6>
-      <h6>(MLAgentBench/Automated NLP)</h6>
+      <h6>AI for biomedical and therapeutic discoveries</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-3">
