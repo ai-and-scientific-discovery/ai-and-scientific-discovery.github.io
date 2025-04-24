@@ -454,6 +454,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <span class="paper-type"><span>[Archival]</span></span><br>
 
 </li>
+</ul>
 
 <div class="row" id="accepted">
   <div class="col-xs-12">
@@ -511,6 +512,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <span class="paper-type"><span>[Non-Archival Published]</span></span><br>
 
 </li>
+</ul>
 
 <div class="row" id="accepted">
   <div class="col-xs-12">
@@ -579,6 +581,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <span class="paper-type"><span>[Non-Archival]</span></span><br>
 
 </li>
+</ul>
 
 
 
