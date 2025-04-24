@@ -465,7 +465,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 
 <li>
 <span class="paper-title">ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery</span><br>
-<span class="paper-authors">Authors</span><br>
+<span class="paper-authors">Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, Yifei Li, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N. Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun</span><br>
 <span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
 
 </li>
