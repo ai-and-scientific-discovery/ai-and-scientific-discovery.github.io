@@ -463,6 +463,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
   </div>
 </div>
 
+<ul class="paper-list">
 
 <li>
 <span class="paper-title">ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery</span><br>
@@ -521,6 +522,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
   </div>
 </div>
 
+<ul class="paper-list">
 
 <li>
 <span class="paper-title">VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities</span><br>
