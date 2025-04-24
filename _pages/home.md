@@ -403,5 +403,6 @@ These recent developments highlight the possibility of rapidly accelerating the 
       <li>Accepted Paper 1</li>
       <li>Accepted Paper 2</li>
       <li>Accepted Paper 3</li>
+    </ul>
   </div>
 </div>
