@@ -398,19 +398,190 @@ These recent developments highlight the possibility of rapidly accelerating the 
 </div>
 <div class="row" id="accepted">
   <div class="col-xs-12">
-    <h2>Accepted Papers</h2>
-    <h3>Archival Papers</h3>
-    <ul>
-      <li>Accepted Paper 1</li>
-      <li>Accepted Paper 2</li>
-      <li>Accepted Paper 3</li>
-    </ul>
-    <h3>Non-Archival Papers</h3>
-    <ul>
-      <li>Non-archival Paper 1</li>        
-      <li>Non-archival Paper 2</li>
-      <li>Non-archival Paper 3</li>
-    </ul>
+
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers (Archival)</h2>    
+  </div>
+</div>
+
+<ul class="paper-list">
+<li>
+<span class="paper-title">Variable Extraction for Model Recovery in Scientific Literature</span><br>
+<span class="paper-authors">Chunwei Liu, Enrique Noriega-Atala, Adarsh Pyarelal, Clayton T Morrison, Mike Cafarella</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">How Well Do Large Language Models Extract Keywords? A Systematic Evaluation on Scientific Corpora</span><br>
+<span class="paper-authors">Nacef Ben Mansour, Hamed Rahimi, Motasem Alrahabi</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">A Human-LLM Note-Taking System with Case-Based Reasoning as Framework for Scientific Discovery</span><br>
+<span class="paper-authors">Douglas B Craig</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Towards AI-assisted Academic Writing</span><br>
+<span class="paper-authors">Daniel J. Liebling, Malcolm Kane, Madeleine Grunde-McLaughlin, Ian Lang, Subhashini Venugopalan, Michael Brenner</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Evaluating and Enhancing Large Language Models for Novelty Assessment in Scholarly Publications</span><br>
+<span class="paper-authors">Ethan Lin, Zhiyuan Peng, Yi Fang</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">LLM-Assisted Translation of Legacy FORTRAN Codes to C++: A Cross-Platform Study</span><br>
+<span class="paper-authors">Nishath Rajiv Ranasinghe, Shawn M. Jones, Michal Kucer, Ayan Biswas, Daniel O'Malley, Alexander Most, Selma Liliane Wanna, Ajay Sreekumar</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">FlavorDiffusion: Predicting Food Pairings and Chemical Interactions Using Diffusion Models</span><br>
+<span class="paper-authors">Junpyo Seo</span><br>
+<span class="paper-type"><span>[Archival]</span></span><br>
+
+</li>
+
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers (Non-Archival Previously Published Papers)</h2>
+    <p>Note: These papers have been previously accepted at other venues, and are highly relevant to AI & Scientific Discovery.</p>
+  </div>
+</div>
+
+
+<li>
+<span class="paper-title">ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery</span><br>
+<span class="paper-authors">Authors</span><br>
+<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias (NAACL 2025)</span><br>
+<span class="paper-authors">Andres Algaba, Carmen Mazijn, Vincent Holst, Floriano Tori, Sylvia Wenmackers, Vincent Ginis</span><br>
+<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses (ICLR 2025)</span><br>
+<span class="paper-authors">Zonglin Yang, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou</span><br>
+<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Efficient Evolutionary Search Over Chemical Space with Large Language Models (ICLR 2025)</span><br>
+<span class="paper-authors">Haorui Wang*, Marta Skreta*, Cher Tian Ser, Wenhao Gao, Lingkai Kong, Felix Strieth-Kalthoff, Chenru Duan, Yuchen Zhuang, Yue Yu, Yanqiao Zhu, Yuanqi Du, Alan Aspuru-Guzik, Kirill Neklyudov, Chao Zhang</span><br>
+<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">DiscoveryBench: Towards Data-Driven Discovery with Large Language Models (ICLR 2025)</span><br>
+<span class="paper-authors">Bodhisattwa Prasad Majumder, Harshit Surana, Dhruv Agarwal, Bhavana Dalvi Mishra, Abhijeetsingh Meena, Aryan Prakhar, Tirth Vora, Tushar Khot, Ashish Sabharwal, Peter Clark</span><br>
+<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents (NeurIPS 2024 Spotlight)</span><br>
+<span class="paper-authors">Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, Bhavana Dalvi Mishra, Bodhisattwa Prasad Majumder, Oyvind Tafjord, Peter Clark</span><br>
+<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Hypothesis Generation with Large Language Models (EMNLP 2024)</span><br>
+<span class="paper-authors">Yangqiaoyu Zhou, Haokun Liu, Tejes Srivastava, Hongyuan Mei, Chenhao Tan</span><br>
+<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+
+</li>
+
+<div class="row" id="accepted">
+  <div class="col-xs-12">
+    <h2>Accepted Papers (Non-Archival)</h2>
+    <p>Note: These papers are non-archival, and not included in the official proceedings.</p>
+  </div>
+</div>
+
+
+<li>
+<span class="paper-title">VISION: A Modular AI Assistant for Natural Human-Instrument Interaction at Scientific User Facilities</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Automatic Evaluation Metrics for Artificially Generated Scientific Research</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">WithdrarXiv: A Large-Scale Dataset for Retraction Study</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">FARM: Functional Group-Aware Representations for Small Molecules</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Scideator: Iterative Human-LLM Scientific Idea Generation and Novelty Evaluation Grounded in Research-Paper Facet Recombination</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">What Can Large Language Models Do for Sustainable Food?</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Learning to Generate Research Idea with Dynamic Control</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Map2Text: New Content Generation from Low-Dimensional Visualizations</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Data Driven Design as a Challenge Task for Few- and Zero-Shot Information Extraction</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+<li>
+<span class="paper-title">Language Modeling by Language Models with Genesys</span><br>
+<span class="paper-type"><span>[Non-Archival]</span></span><br>
+
+</li>
+
+
+
     
   </div>
 </div>
