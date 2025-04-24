@@ -466,21 +466,21 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <li>
 <span class="paper-title">ScienceAgentBench: Toward Rigorous Assessment of Language Agents for Data-Driven Scientific Discovery</span><br>
 <span class="paper-authors">Ziru Chen, Shijie Chen, Yuting Ning, Qianheng Zhang, Boshi Wang, Botao Yu, Yifei Li, Zeyi Liao, Chen Wei, Zitong Lu, Vishal Dey, Mingyi Xue, Frazier N. Baker, Benjamin Burns, Daniel Adu-Ampratwum, Xuhui Huang, Xia Ning, Song Gao, Yu Su, Huan Sun</span><br>
-<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+<span class="paper-type"><span>[Non-Archival Published]</span></span><br>
 
 </li>
 
 <li>
 <span class="paper-title">Large Language Models Reflect Human Citation Patterns with a Heightened Citation Bias (NAACL 2025)</span><br>
 <span class="paper-authors">Andres Algaba, Carmen Mazijn, Vincent Holst, Floriano Tori, Sylvia Wenmackers, Vincent Ginis</span><br>
-<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+<span class="paper-type"><span>[Non-Archival Published]</span></span><br>
 
 </li>
 
 <li>
 <span class="paper-title">MOOSE-Chem: Large Language Models for Rediscovering Unseen Chemistry Scientific Hypotheses (ICLR 2025)</span><br>
 <span class="paper-authors">Zonglin Yang, Wanhao Liu, Ben Gao, Tong Xie, Yuqiang Li, Wanli Ouyang, Soujanya Poria, Erik Cambria, Dongzhan Zhou</span><br>
-<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+<span class="paper-type"><span>[Non-Archival Published]</span></span><br>
 
 </li>
 
@@ -494,21 +494,21 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <li>
 <span class="paper-title">DiscoveryBench: Towards Data-Driven Discovery with Large Language Models (ICLR 2025)</span><br>
 <span class="paper-authors">Bodhisattwa Prasad Majumder, Harshit Surana, Dhruv Agarwal, Bhavana Dalvi Mishra, Abhijeetsingh Meena, Aryan Prakhar, Tirth Vora, Tushar Khot, Ashish Sabharwal, Peter Clark</span><br>
-<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+<span class="paper-type"><span>[Non-Archival Published]</span></span><br>
 
 </li>
 
 <li>
 <span class="paper-title">DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents (NeurIPS 2024 Spotlight)</span><br>
 <span class="paper-authors">Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, Bhavana Dalvi Mishra, Bodhisattwa Prasad Majumder, Oyvind Tafjord, Peter Clark</span><br>
-<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+<span class="paper-type"><span>[Non-Archival Published]</span></span><br>
 
 </li>
 
 <li>
 <span class="paper-title">Hypothesis Generation with Large Language Models (EMNLP 2024)</span><br>
 <span class="paper-authors">Yangqiaoyu Zhou, Haokun Liu, Tejes Srivastava, Hongyuan Mei, Chenhao Tan</span><br>
-<span class="paper-type"><span>[Non-Archival Prepublished]</span></span><br>
+<span class="paper-type"><span>[Non-Archival Published]</span></span><br>
 
 </li>
 
