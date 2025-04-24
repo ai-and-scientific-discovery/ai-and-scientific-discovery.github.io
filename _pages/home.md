@@ -399,10 +399,18 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
+    <h3>Archival Papers</h3>
     <ul>
       <li>Accepted Paper 1</li>
       <li>Accepted Paper 2</li>
       <li>Accepted Paper 3</li>
     </ul>
+    <h3>Non-Archival Papers</h3>
+    <ul>
+      <li>Non-archival Paper 1</li>        
+      <li>Non-archival Paper 2</li>
+      <li>Non-archival Paper 3</li>
+    </ul>
+    
   </div>
 </div>
