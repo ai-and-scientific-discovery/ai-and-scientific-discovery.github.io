@@ -275,7 +275,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <hr />
 
 
-
+<!-- Schedule -->
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
     <h2>Schedule (Tentative)</h2>
@@ -399,6 +399,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 <div class="row" id="accepted">
   <div class="col-xs-12">
 
+<!-- Accepted Papers -->
 <div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted Papers (Archival)</h2>    
