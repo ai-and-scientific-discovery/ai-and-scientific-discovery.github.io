@@ -278,7 +278,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
 
 <div class="row" id="schedule">
   <div class="col-md-4 col-xs-12">
-    <h2>Schedule</h2>
+    <h2>Schedule (Tentative)</h2>
   </div>
   <!-- <div class="col-md-8 col-xs-12">
       <select id="timezone-select" class="form-control"></select>
