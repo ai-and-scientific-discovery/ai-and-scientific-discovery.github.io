@@ -291,7 +291,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="08:55">08:55 AM</th> <td>Opening Remarks</td></tr>
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Keynote Talk 1: Marinka Zitnik<br />
-      <span style="font-style:italic">TBD</span>
+      <span style="font-style:italic">TxAgent: An AI Agent for Therapeutic Reasoning Across a Universe of Tools</span>
      <!-- <a href="">[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk1" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
