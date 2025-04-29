@@ -292,7 +292,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="09:00">09:00 AM</th> <td>
       Keynote Talk 1: Marinka Zitnik<br />
       <span style="font-style:italic">TBD</span>
-      <a href="">[Slides]</a>
+     <!-- <a href="">[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk1" aria-cexpanded="false" aria-controls="schedule-talk1">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk1" aria-cexpanded="false" aria-controls="speaker-bio-talk1">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk1">
@@ -305,7 +305,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="09:50">09:45 AM</th> <td>
       Keynote Talk 2: Kexin Huang<br />
       <span style="font-style:italic">AI Agents for Accelerating Scientific Discovery: From Hypothesis Generation to Experimental Design</span>
-      <a href="" >[Slides]</a>
+      <!-- <a href="">[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk2" aria-cexpanded="false" aria-controls="schedule-talk2">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk2" aria-cexpanded="false" aria-controls="speaker-bio-talk2">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk2">
@@ -319,7 +319,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="11:00">11:00 AM</th> <td>
       Keynote Talk 3: Heng Ji<br />
       <span style="font-style:italic">AI Plays Medicinal Chemist and Material Scientist</span>
-      <!-- <a href="https://docs.google.com/presentation/d/1Wcg7P4Yri-SWarNBRMkpUEIP2vQXIrpv/edit?usp=drive_link&ouid=103388184196365975806&rtpof=true&sd=true" >[Slides]</a> -->
+      <!-- <a href="">[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk3" aria-cexpanded="false" aria-controls="schedule-talk3">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk3" aria-cexpanded="false" aria-controls="speaker-bio-talk3">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk3">
@@ -357,7 +357,7 @@ These recent developments highlight the possibility of rapidly accelerating the 
     <tr> <th scope="row" data-time="14:00">14:00 PM</th> <td>
       Keynote Talk 4: Peter Clark<br />
       <span style="font-style:italic">Towards (Semi-)Autonomous Scientific Discovery</span>
-      <a href="" >[Slides]</a>
+      <!-- <a href="">[Slides]</a> -->
       <a data-toggle="collapse" href="#schedule-talk7" aria-cexpanded="true" aria-controls="schedule-talk7">[Abstract]</a>
       <a data-toggle="collapse" href="#speaker-bio-talk7" aria-cexpanded="true" aria-controls="speaker-bio-talk7">[Speaker Bio]</a>
       <div class="collapse" id="schedule-talk7">
